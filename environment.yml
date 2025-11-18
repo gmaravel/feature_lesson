@@ -23,8 +23,6 @@ dependencies:
 
       # Plotting
       - matplotlib==3.10.1
-      - plotly==6.0.1
-      - seaborn==0.13.2
       - scikit-image==0.25.2
 
       # Classic
@@ -33,22 +31,5 @@ dependencies:
       - scipy==1.15.2
       - statsmodels==0.14.4
 
-      # Bayesian & MCMC
-      - corner==2.1.0
-      - dynesty==2.1.2
-      - emcee==3.1.6
-      - getdist==1.4.5
-      - sbi==0.22.0
-
       # Machine Learning
-      - astroML==1.0.2
-      - optuna==3.5.0    
       - scikit-learn==1.6.1
-      - xgboost==2.0.3
-
-      # Deep Learning
-      - h5py==3.11.0
-      - nflows==0.14
-      - tensorflow==2.19.0
-      - torch==2.7.0
-      - pytorch-lightning==2.5.1
